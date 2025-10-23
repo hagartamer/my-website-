@@ -1,0 +1,19 @@
+/* style.css */
+body {
+  font-family: Verdana, Helvetica;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+header, footer {
+  background-color: #FF8C00;
+  color: black;
+  padding: 10px;
+}
+
+main {
+  background-color: white;
+  padding: 20px;
+  margin-top: 10px;
+}
